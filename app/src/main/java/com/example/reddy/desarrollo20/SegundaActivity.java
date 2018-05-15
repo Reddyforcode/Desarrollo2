@@ -17,8 +17,9 @@ public class SegundaActivity extends AppCompatActivity {
         edad = (TextView) findViewById(R.id.edad);
         Bundle bundle = getIntent().getExtras();
 
-        edad.setText(bundle.getString("edadMeses", ""));
+        String message = bundle.getString("año", "")+"/"+bundle.getString("mes", "")+"/"+bundle.getString("dia", "");
+        edad.setText(message);
 
-
+        //edad.setText(bundle.getString("edadMeses", ""));
     }
 }

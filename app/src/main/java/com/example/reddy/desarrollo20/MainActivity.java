@@ -2,6 +2,7 @@ package com.example.reddy.desarrollo20;
 
 import android.content.Intent;
 import android.os.Build;
+import android.support.annotation.NonNull;
 import android.support.annotation.RequiresApi;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -20,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
     CalendarView calendar;
     Button siguiente;
+    private int dia, mes, año;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,32 +32,45 @@ public class MainActivity extends AppCompatActivity {
         calendar = (CalendarView)findViewById(R.id.calendar);
         siguiente = (Button) findViewById(R.id.siguiente);
 
+        calendar.setOnDateChangeListener(new CalendarView.OnDateChangeListener() {
+            @Override
+            public void onSelectedDayChange(@NonNull CalendarView calendarView, int i, int i1, int i2) {
+                año = i;
+                mes = i1;
+                dia = i2;
+
+            }
+        });
+
         siguiente.setOnClickListener(new View.OnClickListener() {
             @RequiresApi(api = Build.VERSION_CODES.O)
             @Override
             public void onClick(View view) {
-                action();
+
+                Intent intent = new Intent(MainActivity.this, SegundaActivity.class);
+                intent.putExtra("año", String.valueOf(año));
+                intent.putExtra("mes", String.valueOf(mes));
+                intent.putExtra("dia", String.valueOf(dia));
+                startActivity(intent);
+                
             }
         });
     }
 
     @RequiresApi(api = Build.VERSION_CODES.O)
     public void action(){
-        SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
-        String selectedDate = sdf.format(new Date(calendar.getDate()));
+
 
         Intent intent = new Intent(this, SegundaActivity.class);
-        intent.putExtra("edadMeses", mesDesdeNac(selectedDate));
+        intent.putExtra("edadMeses", mesDesdeNac(año, mes, dia));
         startActivity(intent);
 
     }
 
     @RequiresApi(api = Build.VERSION_CODES.O)
-    public String mesDesdeNac(String fecha)
+    public String mesDesdeNac(int año, int mes, int dia)
     {
-
-        DateTimeFormatter fmt = DateTimeFormatter.ofPattern("dd/MM/yyyy");
-        LocalDate fechaNac = LocalDate.parse(fecha, fmt);
+        LocalDate fechaNac = LocalDate.of(año, mes, dia);
         LocalDate ahora = LocalDate.now();
 
         Period periodo = Period.between(fechaNac, ahora);
