@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Edad: "
+        android:text="Edad en meses: "
         android:textSize="30dp"
         />
 
@@ -21,5 +21,24 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         />
+
+    <Button
+        android:id="@+id/materiales"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/materiales" />
+    <Button
+        android:id="@+id/test"
+        android:text="@string/test"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/about"
+        android:text="@string/acerca"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>
