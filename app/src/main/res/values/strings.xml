@@ -380,4 +380,7 @@
 
     </string-array>
     
+    <string name="condicionObservacion">Condición de Observación</string>
+    <string name="criterioRespuesta">Criterios de Respuesta</string>
+    
 </resources>
