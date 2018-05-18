@@ -19,7 +19,11 @@
         <activity android:name=".SegundaActivity" />
         <activity android:name=".MaterialesActivity" />
         <activity android:name=".TestActivity" />
-        <activity android:name=".AboutActivity"></activity>
+        <activity android:name=".AboutActivity" />
+        <activity android:name=".QueDebeHacerElNinoActivity" />
+        <activity android:name=".ComoDebeRealizarActivity" />
+        <activity android:name=".QueVasAobservarActivity" />
+        <activity android:name=".ResultadosActivity"></activity>
     </application>
 
 </manifest>

@@ -4,383 +4,349 @@
     <string name="materiales">Materiales</string>
     <string name="test">Test</string>
     <string name="acerca">Acerca de La App</string>
-    
-    
+
     <string-array name="itemsMotricidadGruesa">
-        <item>  Realiza reflejo de búsqueda y reflejo de succión.</item>
 
-        <item>
-            El reflejo de moro está presentey es simétrico.</item>
-
-        <item>
-            Mueve sus extremidades.</item>
-
-        <item>
-            Sostiene la cabeza al levantarlo de los brazos.</item>
-
-        <item>
-            Levanta la cabeza y pecho en prono.</item>
-
-        <item>
-            Gira la cabeza desde la linea media.</item>
-
-        <item>
-            Control de la cabeza sentado con apoyo.</item>
-
-        <item>
-            Se voltea.</item>
-
-        <item>
-            Se mantiene sentado momentáneamente.</item>
-
-        <item>
-            Se mantiene sentado sin apoyo.</item>
-
-        <item>
-            adopta la posición de sentado.</item>
-
-        <item>
-            Se arrastra en posición prono.</item>
-
-        <item>
-            Gatea con desplazamiento cruzado (alternando rodilla y manos)</item>
-
-        <item>
-            Adopta posición bípeda y se sostiene de pie con apoyo.</item>
-
-        <item>
-            Se sostiene de pie sin apoyo.</item>
-
-        <item>
-            Se pone de pie sin ayuda.</item>
-
-        <item>
-            Da pasos solo(a).</item>
-
-        <item>
-            camina con desplazamiento cruzado sin ayuda(alternando manos y pies).</item>
-
-        <item>
-            Corre.</item>
-
-        <item>
-            Lanza la pelota.</item>
-
-        <item>
-            Patea la pelota.</item>
-
-        <item>
-            Salta con los pies juntos</item>
-
-        <item>
-            Se empina en ambos pies.</item>
-
-        <item>
-            Sube dos escalones sin apoyo.</item>
-
-        <item>
-            Camina en puntas de pies.</item>
-
-        <item>
-            Se para en un solo pie.</item>
-
-        <item>
-            Baja dos escalones con apoyo minimo, alternando los pies.</item>
-
-        <item>
-            Camina sobre una linea recta sin apoyo visual.</item>
-
-        <item>
-            Salta en tres o más ocasiones en un pie.</item>
-
-        <item>
-            Hace rebotar y agarra la pelota.</item>
-
-        <item>
-            Hace “caballitos” (alternando los pies)</item>
-
-        <item>
-            Salta de lado a lado de una línea con los pies juntos.</item>
-
-        <item>
-            Salta desplazándose con ambos pies</item>
-
-        <item>
-            Mantiene el equilibrio en la punta de los pies con los ojos cerrados.</item>
-
-        <item>
-             Realiza saltos alternados en secuencia.</item>
-
-        <item>
-             Realiza alguna actividad de integración motora.</item>
+        <item>Patalea</item>
+        <item>Levanta la cabeza boca abajo</item>
+        <item>Levanta la cabeza y pecho boca abajo</item>
+        <item>Sostiene la cabeza al levantarlo de los brazos</item>
+        <item>Sostiene la cabeza sentado</item>
+        <item>Se voltea de un lado a otro</item>
+        <item>Intenta sentarse solo</item>
+        <item>Se sostiene sentado con ayuda</item>
+        <item>Se arrastra en posición boca abajo</item>
+        <item>Se sienta sin ayuda</item>
+        <item>Gatea</item>
+        <item>Se agarra y se sostiene de pie</item>
+        <item>Se para sin ayuda</item>
+        <item>Da pasitos solo</item>
+        <item>Camina solito</item>
+        <item>Corre</item>
+        <item>Patea la pelota</item>
+        <item>Tira la pelota con las manos</item>
+        <item>Salta con los pies</item>
+        <item>Se para de puntas</item>
+        <item>Se levanta sin usar las manos</item>
+        <item>Camina hacia atrás</item>
+        <item>Camina en punta de pie</item>
+        <item>Se para en un solo pie</item>
+        <item>Lanza y agarra la pelota</item>
+        <item>Camina en línea recta</item>
+        <item>Salta tres o más pasos en un solo pie</item>
+        <item>Hace rebotar y agarra la pelota</item>
+        <item>Salta con los pies juntos una soga a 25 cms</item>
+        <item>Corre saltando combinando los pies</item>
+        <item>Salta desde 50cms de altura</item>
+        <item>Juega T ́hunkuña demuestre</item>
+        <item>Hace construcciones sencillas</item>
+        <item>Salta combinando los pies (caballitos)</item>
+        <item>Abre y cierra las manos alternando</item>
+        <item>Marcha sin perder el ritmo</item>
+        <item>Salta la soga</item>
 
     </string-array>
-    
-    <string-array name="motricidadFinoAdaptativa">
-        <item>
-             Reflejo de prensión palmar.</item>
 
-        <item>
-            Reacciona ante la luz y sonidos.</item>
+    <string-array name="AudicionLenguaje">
 
-        <item>
-            Sigue movimiento horizontal.</item>
-
-        <item>
-            Abre y mira sus manos.</item>
-
-        <item>
-            Sostiene objeto en la mano.</item>
-
-        <item>
-            Se lleva un objeto a la boca.</item>
-
-        <item>
-            Agarra objetos voluntariamente.</item>
-
-        <item>
-            Retiene un objeto cuando se lo intenta quitar.</item>
-
-        <item>
-            Pasa objeto de una mano a otra.</item>
-
-        <item>
-            Sostiene un objeto en cada mano.</item>
-
-        <item>
-            Deja caer los objetos intencionalmente.</item>
-
-        <item>
-            Agarra con pulgar e índice (pinza).</item>
-
-        <item>
-            Agarra un tercer objeto cin soltar otros.</item>
-
-        <item>
-            Saca objetos del contenedor.</item>
-
-        <item>
-            Busca objetos escondidos.</item>
-
-        <item>
-            Hace torre de tres cubos.</item>
-
-        <item>
-            Pasa hojas de un libro.</item>
-
-        <item>
-            Agarra una cuchara y se la lleva a la boca.</item>
-
-        <item>
-            Garabatea espontáneamente.</item>
-
-        <item>
-            Quita la tapa del contenedor o frasco de muestra de orina.</item>
-
-        <item>
-            Hace torre de cinco cubos.</item>
-
-        <item>
-            Ensarta cuentas perforadas con pinza.</item>
-
-        <item>
-            Rasga papel con pinza de ambas manos.</item>
-
-        <item>
-            Copia línea horizontal y vertical.</item>
-
-        <item>
-            Hace una bola de papel con sus dedos.</item>
-
-        <item>
-            Copia círculo.</item>
-
-        <item>
-            Figura humana rudimentaria.</item>
-
-        <item>
-            Imita el dibujo de una escalera.</item>
-
-        <item>
-            Corta papel con las tijeras.</item>
-
-        <item>
-            Figura humana 2.</item>
-
-        <item>
-            Dibuja el lugar en el que vive.</item>
-
-        <item>
-            Modelo de cubos “escalera”.</item>
-
-        <item>
-            Copia de un triángulo.</item>
-
-        <item>
-            Copia de una figura de puntos.</item>
-
-        <item>
-            Puede hacer una figura plegada.</item>
-
-        <item>
-            Ensarta cordón cruzado (cómo amarrarse los zapatos).</item>
+        <item>Se sobresalta con un ruido</item>
+        <item>Busca el sonido con la mirada</item>
+        <item>Pronuncia dos sonidos diferentes</item>
+        <item>Balbucea con las personas</item>
+        <item>Pronuncia cuatro o más sonidos diferentes</item>
+        <item>Ríe a carcajadas </item>
+        <item>Reacciona cuando se le llama</item>
+        <item>Pronuncia tres o más sílabas</item>
+        <item>Hace sonar la sonaja</item>
+        <item>Pronuncia una palabra clara</item>
+        <item>Niega con la cabeza</item>
+        <item>Llama a la madre o acompañante</item>
+        <item>Entiende una orden sencilla</item>
+        <item>Reconoce tres objetos</item>
+        <item>Combina dos palabras</item>
+        <item>Reconoce seis objetos</item>
+        <item>Nombra cinco objetos</item>
+        <item>Usa frase de tres palabras</item>
+        <item>Pronuncia más de 20 palabras claras</item>
+        <item>Dice su nombre completo</item>
+        <item>Conoce: alto-bajo, grande-pequeño</item>
+        <item>Usa oraciones completas</item>
+        <item>Conoce para que sirven cinco objetos </item>
+        <item>Repite tres números</item>
+        <item>Describe bien el dibujo</item>
+        <item>Cuenta dedos de las manos o cubos</item>
+        <item>Distingue: adelante-atrás, arriba-abajo</item>
+        <item>Nombra 4-5 colores</item>
+        <item>Expresa sus opiniones</item>
+        <item>Conoce izquierda y derecha </item>
+        <item>Conoce días de la semana</item>
+        <item>Identifica letras iguales</item>
+        <item>Dice frases con entonación</item>
+        <item>Conoce: ayer, hoy, mañana</item>
+        <item>Cuenta hacia atrás desde 10</item>
+        <item>Pone órdenes en secuencia</item>
+        <item>Conoce en orden días de la semana</item>
 
     </string-array>
 
-    <string-array name="audicionLenguaje">
+    <string-array name="MotricidadFina">
 
-        <item>Se sobresalta con ruido.</item>
-
-        <item>Contempla momentáneamente a una persona.</item>
-
-        <item>Llora para expresar necesidades.</item>
-
-        <item>Se tranquiliza con la voz humana.</item>
-
-        <item>Produce sonidos guturales indiferenciados.</item>
-
-        <item>Busca el sonido con la mirada.</item>
-
-        <item>Busca diferentes sonidos con la mirada.</item>
-
-        <item>Pone atención a la conversación.</item>
-
-        <item>Produce cuatro o más sonidos diferentes.</item>
-
-        <item>Pronuncia tres o más sílabas.</item>
-
-        <item>Reacciona cuando se le llama por su nombre.</item>
-
-        <item>Reacciona a tres palabras familiares.</item>
-
-        <item>Reacciona a la palabra no.</item>
-
-        <item>Llama al cuidador.</item>
-
-        <item>Responde a una instruccion sencilla.</item>
-
-        <item>Aproximación a una palabra con intención comunicativa.</item>
-
-        <item>Reconoce al menos 6 objetos o imágenes.</item>
-
-        <item>Sigue instrucciones de dos pasos.</item>
-
-        <item>Nombra cinco objetos de una imagen.</item>
-
-        <item>Utiliza más de 20 palabras.</item>
-
-        <item>Usa frase de dos palabras.</item>
-
-        <item>Dice su nombre completo.</item>
-
-        <item>Dice frases de 3 palabras.</item>
-
-        <item>Reconoce cualidades de los objetos.</item>
-
-        <item>Define por su uso cinco objetos.</item>
-
-        <item>Hace comparativos.</item>
-
-        <item>Describe el dibujo.</item>
-
-        <item>Denomina 5 colores.</item>
-
-        <item>Responde tres preguntas sobre un relato.</item>
-
-        <item>Elabora un relato a partir de una imagen.</item>
-
-        <item>Expresa opiniones.</item>
-
-        <item>Repite palabras con pronunciación correcta.</item>
-
-        <item>Absurdos visuales.</item>
-
-        <item>Identifica palabras que inician con sonidos parecidos.</item>
-
-        <item>Conoce: ayer, hoy y mañana.</item>
-
-        <item>Ordena una historia y la relata.</item>
+        <item>Sigue moviendo horizontal y vertical del objeto</item>
+        <item>Abre y mira sus manos</item>
+        <item>Sostiene un objeto en la mano</item>
+        <item>Se lleva un objeto a la boca</item>
+        <item>Agarra objetos voluntariamente</item>
+        <item>Sostiene un  objeto en cada mano</item>
+        <item>Pasa un objeto de una mano a otra</item>
+        <item>Agarra varios objetos a la vez</item>
+        <item>Agarra un objeto con los dedos</item>
+        <item>Agarra un cubo con el pulgar e índice</item>
+        <item>Mete y saca objetos de la caja</item>
+        <item>Agarra un tercer objeto sin soltar otros</item>
+        <item>Busca objetos escondidos</item>
+        <item>Hace torre de tres cubos </item>
+        <item>Pasa hojas de un libro</item>
+        <item>Espera como sale la pelotita</item>
+        <item>Tapa bien una caja</item>
+        <item>Hace garabatos circulares</item>
+        <item>Hace torre de cinco o más cubos</item>
+        <item>Ensarta seis o más cuentas</item>
+        <item>Copia línea horizontal</item>
+        <item>Separa objetos grandes y pequeños</item>
+        <item>Dibuja figura rudimentaria I</item>
+        <item>Corta papel con las tijeras</item>
+        <item>Copia cuadrado y círculo</item>
+        <item>Dibuja figura humana II</item>
+        <item>Agrupa por color y forma</item>
+        <item>Dibuja escalera</item>
+        <item>Agrupa por color, forma y tamaño</item>
+        <item>Hace gradas de 10 cubos </item>
+        <item>Dibuja una casa </item>
+        <item>Escribe letras y/o números</item>
+        <item>Modela una persona</item>
+        <item>Copia figura con líneas curvas</item>
+        <item>Colorea figura</item>
+        <item>Hace figura con papel</item>
+        <item>Recorta curvas y círculos</item>
 
     </string-array>
 
-    <string-array name="personalSocial">
+    <string-array name="PersonalSocial">
 
-        <item>Se tranquiliza cuando se toma entre los brazos.</item>
-
-        <item>Responde a las caricias.</item>
-
-        <item>El bebé ya está registrado.</item>
-
-        <item>Reconoce la voz del cuidador principal.</item>
-
-        <item>Sonrisa social.</item>
-
-        <item>Responde a una conversación. </item>
-
-        <item>Coge las manos del examinador.</item>
-
-        <item>Ríe a carcajadas.</item>
-
-        <item>Busca la continuación del juego.</item>
-
-        <item>Reacciona con desconfianza ante el extraño(a).</item>
-
-        <item>Busca apoyo del cuidador.</item>
-
-        <item>Reacciona a su imagen en el espejo.</item>
-
-        <item>Participa en juegos.</item>
-
-        <item>Muestra interés o intención en alimentarse solo.</item>
-
-        <item>Explora el entorno.</item>
-
-        <item>Seguimiento de rutinas.</item>
-
-        <item>Ayuda a desvestirse.</item>
-
-        <item>Señala 5 partes de su cuerpo.</item>
-
-        <item>Acepta y tolera el contacto de su piel con diferentes texturas.</item>
-
-        <item>Expresa su satisfacción cuando logra o consigue algo.</item>
-
-        <item>Identifica emociones básicas en una imagen.</item>
-
-        <item>Identifica qué es de él y qué es de otros.</item>
-
-        <item>Dice nombres de las personas con quienes vive o comparte.</item>
-
-        <item>Expresa verbalmente emociones básicas (tristeza, alegría, miedo, rabia).</item>
-
-        <item>Rechaza la ayuda del cuidador cuando desea, intenta o hace algo por sí mismo.</item>
-
-        <item>Comparte juego con otros(as) niños(as).</item>
-
-        <item>Reconoce las emociones básicas en los otros(as).</item>
-
-        <item>Puede desvestirse y vestirse solo(a).</item>
-
-        <item>Propone juegos</item>
-
-        <item>Sabe cuántos años tiene.</item>
-
-        <item>Participa en juegos respetando reglas y turnos.</item>
-
-        <item>Comenta vida familiar.</item>
-
-        <item>Colabora por iniciativa propia con actividades cotidianas.</item>
-
-        <item>Manifiesta emoción ante acontecimientos importantes de su grupo social.</item>
-
-        <item>Reconocimientos de normas o prohibiciones.</item>
-
-        <item>Reconoce emociones complejas (culpa, pena, etc.).</item>
-
+        <item>Sigue con la mirada los movimientos de la cara</item>
+        <item>Reconoce a su madre</item>
+        <item>Sonríe al acariciarlo</item>
+        <item>Se voltea cuando se le habla</item>
+        <item>Agarra las manos del examinador </item>
+        <item>Acepta y agarra el juguete</item>
+        <item>Pone atención a la conversación</item>
+        <item>Ayuda a sostener la taza para tomar</item>
+        <item>Reacciona ante sus imagen en el espejo</item>
+        <item>Imita los aplausos</item>
+        <item>Entrega un objeto al examinador</item>
+        <item>Pide un juguete u objeto</item>
+        <item>Toma en taza solo</item>
+        <item>Señala una prenda de vestir</item>
+        <item>Señala dos partes del cuerpo</item>
+        <item>Avisa para ir al baño</item>
+        <item>Señala cinco partes del cuerpo</item>
+        <item>Trata de contar experiencias</item>
+        <item>Controla en el día su orina</item>
+        <item>Diferencia hombre–mujer</item>
+        <item>Dice nombre de su Papá y Mamá</item>
+        <item>Se lava solo las manos y la cara</item>
+        <item>Puede desvestirse solo</item>
+        <item>Comparte juego con otros niños</item>
+        <item>Tiene amigo especial</item>
+        <item>Puede vestirse y desvestirse solo</item>
+        <item>Sabe cuántos años tiene</item>
+        <item>Organiza juegos</item>
+        <item>Hace mandados</item>
+        <item>Conoce nombre de lacalle, barrio o comunidad en que vive</item>
+        <item>Habla de su familia</item>
+        <item>Sabe qué lugar ocupa en su familia</item>
+        <item>Participa en actividades </item>
+        <item>Conoce fechas especiales</item>
+        <item>Relaciona el tiempo con actividades diarias</item>
+        <item>Indica  recorrido,  nombra  por  lo  menos  tres lugares que pasa</item>
+        <item>Habla sobre sí mismo</item>
 
     </string-array>
-    
+
+    <string-array name="queVasAobservarMotricidadGruesa">
+
+        <item>Coloca al niño echado boca-arriba con sus piernas libres. Llama su atención con algún juguete y observa por algunos momentos lo que hace.</item>
+        <item>Coloque  al  niño  boca-abajo,  observe su comportamiento espontáneo. Llame su atención con algún juguete, o solicite a la madre que lo haga.</item>
+        <item>Coloque  al  niño  boca-abajo,  observe su comportamiento espontáneo. Llame su atención con algún juguete, o solicite a la madre que lo haga.</item>
+        <item>Coloque  al  niño  acostado  boca-arriba, tómelo  suavemente de ambas manos y levántelo  lentamente  unos  20  ó  25 centímetros.  Repita dos o tres veces.</item>
+        <item>Coloque al niño sentado con ayuda (sosteniéndolo suavemente de la espalda), ya sea sobre la colchoneta o en el regazo de la madre.</item>
+        <item>Observe el comportamiento espontáneo del niño mientras está acostado sobre la colchoneta. Llame su atención con algún juguete, o solicite a la madre que lo haga.</item>
+        <item>Observe el comportamiento espontáneo del niño mientras se encuentra sobre la colchoneta. Mientras está acostado, llame su atención con algún juguete.</item>
+        <item>Coloque al niño sentado con apoyo de un cojín, o pida a la madre que lo sostenga ligeramente de la espalda. Observe por algunos segundos.</item>
+        <item>Coloque al niño boca–abajo, llame su atención ofreciéndole un juguete, o solicite a la madre que lo haga. Observe su comportamiento algunos segundos.</item>
+        <item>Observe el comportamiento del niño durante el examen. Colóquelo acostado boca –arriba y llame su atención, o solicite a la madre que lo haga.</item>
+        <item>Coloca al niño boca-arriba y llama su atención con algo o pide a su mamá que lo haga.</item>
+        <item>Observe el comportamiento espontáneo del niño durante el examen. Llame su atención con algún juguete cerca de la mesa o las rodillas de la madre.</item>
+        <item>Observe el comportamiento espontáneo del niño durante el examen. Si el niño se encuentra sentado llame su atención ofreciéndole algún juguete, o solicite a la madre que lo haga.</item>
+        <item>A continuación del ítem anterior(El niño parado solo), pida a la madre que invite al niño desde una distancia de uno o dos metros. Observe el comportamiento espontáneo del niño durante el examen.</item>
+        <item>Observe a continuación del ítem anterior(El niño da pasitos solo). Observe el comportamiento espontaneo del niño durante el examen.</item>
+        <item>Observe el comportamiento espontaneo del niño, invítelo a correr alrededor del cuarto.</item>
+        <item>Coloque la pelota quieta, a una distancia aproximada de dos o tres pasos del niño. Pida alniño la patee en una determinada dirección.</item>
+        <item>Dale la pelota al niño y ponte a dos o tres pasos de él y pide al niño que te tire la pelota. Puedes hacerle una demostración al niño y que ensaye dos o tres veces.</item>
+        <item>Demuestre al niño cómo saltar en los dos pies juntos, pídale que repita con usted este ejercicio.</item>
+        <item>Demuestre al niño cómo empinarse juntando los pies y levantando los talones simultáneamente.</item>
+        <item>Solicitar al niño que se ponga de rodillas y levante as dos manos. A continuación pedirle que se ponga de pie sin apoyarse.</item>
+        <item>Observe el comportamiento espontaneo del niño. Demuestre cómo caminar hacia atrás e invítelo a repetir el ejercicio.</item>
+        <item>Demuestre al niño cómo caminar en puntas de pies, solicítele repetir el ejercicio.</item>
+        <item>Demuestre al niño cómo pararse en un solo pie, invítelo a repetir el ejercicio, permítale varios ensayos.</item>
+        <item>Observe a continuación del ítem 18. Colóquese a una distancia de dos metros del niño, muéstrele cómo lanzar y recibir la pelota con ambas manos. Repita varias veces el ejercicio con el niño.</item>
+        <item>Demuestre al niño cómo caminar por la línea, alternando los pies uno frente al otro. Solicite que repita el ejercicio.</item>
+        <item>Observe a continuación del ítem 24. Demuestre al niño cómo saltar en un pie, solicite que repita el ejercicio, permítale varios ensayos.</item>
+        <item>Demuestre al niño cómo hacer rebotar contra el piso la pelota y agarrarla en secuencia. Invítelo a repetir el ejercicio.</item>
+        <item>Con ayuda de la madre tensione la cuerda a una altura de 20 o 25 cm. del piso. Demuestre al niño cómo saltar la cuerda con ambos pies juntos. </item>
+        <item>Demuestre al niño cómo correr y saltar, haciendo caballitos alternando los pies.</item>
+        <item>Solicite al niño que se suba a una silla pídale que salte tratando de caer en ambos pies. Si es necesario demuestre cómo hacerlo.</item>
+        <item>Primero pregunta al niño si sabe jugar. Si no sabe, enséñele cómo debe saltar con un solo pie empujando una piedrita plana y luego debe agacharse en un solo pie para recoger la piedrita sin caerse.</item>
+        <item>Muéstrale al niño el modelo de la construcción, dele el material necesario y pídele que haga la misma construcción que le has mostrado.</item>
+        <item>Muestra al niño cómo hacer varios saltos seguidos cambiando de pie (como los caballitos). Después pide al niño que repita el ejercicio. La distancia entre un salto y otro debe ser de 60 cms. Más o menos.</item>
+        <item>Dile al niño que estire sus brazos hacia adelante con la palma de su mano hacia abajo. Dile que cierre la mano derecha y cuando le digas que cambie, debe cerrar la mano izquierda y abrir la mano derecha. Este juego lo debe realizar varias veces.</item>
+        <item>Pregunta al niño si sabe marchar, pídele que marche. Si es necesario puedes hacerle la demostración marcando el ritmo.</item>
+        <item>Pregunta al niño si sabe saltar la soga. Si es necesario, muestrales cómo hacerlo.</item>
+
+    </string-array>
+
+
+    <string-array name="queVasAobservarMotricidadFina">
+
+        <item>El niño debe estar acostado boca-arriba. Llame su atención hacia un juguete de color intenso, mueva lentamente el objeto de izquierda a derecha y de arriba a abajo. Observe el movimiento de los ojos del niño.</item>
+        <item>Observe el comportamiento espontaneo del niño mientras esta acostado boca-arriba.</item>
+        <item>Niño acostado boca-arriba o sentado en el regazo de la madre. Llame su atención hacia un juguete pequeño. Cuando el niño tenga su mano dentro del campo visual, acerque el objeto a su mano y facilite su agarre. Observe el comportamiento del niño.</item>
+        <item>Observe a continuación del ítem anterior, el comportamiento espontáneo del niño durante el examen.</item>
+        <item>Niño sentado con apoyo de la madre. Coloque al alcance de su mano varios juguetes pequeños y llamativos; llame su atención hacia los objetos y observe su comportamiento.</item>
+        <item>Niño acostado boca-arriba, o sentado en el regazo de la madre. Ofrezca al niño dos cubos iguales, una en cada mano, espere a que los agarre y observe su comportamiento.</item>
+        <item>Niño acostado boca-arriba o sentado en el regazo de la madre. Observe el comportamiento espontaneo del niño mientras manipula juguetes durante el examen.</item>
+        <item>Niño sentado con apoyo de la madre. O persona acompañante. Coloque a su alcance varios objetos de fácil manipulación: campana, cubos, pelota ping pong; observe su comportamiento.</item>
+        <item>Observe el comportamiento espontaneo del niño mientras manipula objetos pequeños.</item>
+        <item>Observe el comportamiento espontaneo del niño mientras manipula objetos pequeños.</item>
+        <item>El niño debe estar sentado, preferentemente sobre la colchoneta o en el piso. Utilice la caja que contiene los cubos de madera, destápela y muestre al niño su contenido, deja la caja y los cubos al alcance del niño.</item>
+        <item>Niño sentado. Ofrézcale un cubo en cada mano, mientras el niño tiene sus manos ocupadas ofrezca un tercer cubo u otro objeto pequeño llamativo.</item>
+        <item>Niño sentado. Escoja un juguete pequeño que sea atractivo para el niño, mientras está observando escóndalo debajo de la tapa de la caja o en un repliegue de la sábana. Observe el comportamiento del niño en tres ensayos consecutivos.</item>
+        <item>Niño sentado en el regazo de la madre. frente a la mesa , o sentado en el piso. Demuéstrele cómo hacer una torre, invite al niño a realizarla.</item>
+        <item>Muestre al niño el libro de cuentos, o una revista con dibujos variados de colores llamativos. Deje el libro al alcance del niño por algunos minutos.</item>
+        <item>Niño sentado frente a la mesa o en el piso. Tome a la vista del niño el tubo de cartón o PVC, introduzca por uno de sus lados una pelota de ping-pong u otro objeto llamativo, demuestre cómo sale el objeto por el otro lado. Repita el ejercicio a la inversa y observe el comportamiento del niño.</item>
+        <item>Utilice la caja pequeña que contiene cubos, permita al niño que manipule los cubos algunos segundos, solicítele que los guarde y tape la caja.</item>
+        <item>Niño sentado en el regazo de la madre y contra el borde de la mesa. Coloque  frente al niño la hoja de papel, demuestre cómo rayar con el lápiz haciendo garabatos circulares, deje papel y lápiz al alcance del niño y solicítele que pinte.</item>
+        <item>Niño sentado en el regazo de la madre. frente a la mesa , o sentado en el piso. Demuéstrele cómo hacer una torre, invite al niño a realizarla.</item>
+        <item>Demuestre al niño la manera de ensartar las cuentas, deje el material a su disposición y pídale que repita el ejercicio.</item>
+        <item>Muestre al niño cómo hacer líneas rectas horizontal y vertical, deje lápiz y papel a su alcance y pídale que repita el ejercicio.</item>
+        <item>Disponga desordenadamente las figuras geométricas sobre la mesa. Pida al niño que haga grupos o montones separando las figuras grandes y las pequeñas. "Pon aquí las figuras más grandes, pon aquí las más pequeñas".</item>
+        <item>Solicite al niño que pinte una figura humana. "Pinta aquí ...un niño, una persona, o un muñeco".</item>
+        <item>Ofrezca al niño un pedazo de papel (aproximadamente la cuarta parte de una hoja), solicite que corte con las tijeras.</item>
+        <item>Muestre al niño los modelos de cuadrado y círculo y pídale que reproduzca las figuras. "Pinta una como ésta ... ahora otra como ésta".</item>
+        <item>Solicite al niño que pinte una figura humana. "Pinta aquí ...un niño, una persona, o un muñeco".</item>
+        <item>Utilice las figuras geométricas, colóquelas en desorden sobre la mesa. Pida al niño que haga grupos o montones poniendo juntas en el mismo montón las que más se parecen. Permita que el niño intente su primera agrupación, si utiliza un solo criterio, pregúntele : se podrían hacer más grupos? Se podrían agrupar de otra forma? y de alguna otra, permitiendo en cada caso ejecutar la agrupación correspondiente. NO UTILIZAR EN LA INSTRUCCIÓN NINGUNA PALABRA QUE ORIENTE LA EJECUCION DEL NIÑO, POR EJEMPLO, FORMA, COLOR, TAMAÑO.</item>
+        <item>Demuestre al niño cómo dibujar una escalera con dos líneas verticales paralelas y por lo menos cuatro travesaños. Solicite al niño que repita el ejercicio.</item>
+        <item>Utilice las figuras geométricas, colóquelas en desorden sobre la mesa. Pida al niño que haga grupos o montones poniendo juntas en el mismo montón las que más se parecen. Permita que el niño intente su primera agrupación, si utiliza un solo criterio, pregúntele : se podrían hacer más grupos? Se podrían agrupar de otra forma? y de alguna otra, permitiendo en cada caso ejecutar la agrupación correspondiente. NO UTILIZAR EN LA INSTRUCCIÓN NINGUNA PALABRA QUE ORIENTE LA EJECUCION DEL NIÑO, POR EJEMPLO, FORMA, COLOR, TAMAÑO.</item>
+        <item>Presente al niño el modelo de la escalera, tal como aparece en la figura. Permita que el niño lo observe y adviértale : "Mira bien esta escalera, yo voy a tumbarla y tu deberás hacerla de nuevo." </item>
+        <item>Solicite al niño que dibuje una casa, con todos los elementos que considere importantes. Se trata de hacer una casa como las que el niño conoce.</item>
+        <item>Pida al niño que escriba en una hoja de papel letras o números que conozca.</item>
+        <item>Dale al niño un pedazo de greda o plastilina y dile que haga un muñeco o persona.</item>
+        <item>Muéstrale al niño la figura con líneas curvas y dile que la copie.</item>
+        <item>Muéstrale al niño una figura para colorear, pídele que pinte sin salirse de la línea.</item>
+        <item>Muéstrale al niño como doblar un pedazo de papel, hazlo despacio, luego pídele que haga lo mismo.</item>
+        <item>Entrega al niño las hojas con las figuras para recortar, pídele que recorte cada uno de los dibujos.</item>
+    </string-array>
+
+    <string-array name="queVasAobservarAudicionLenguaje">
+
+        <item>Niño acostado boca-arriba. Colóquese fuera de su campo visual a una distancia de uno a dos metros. Haga un ruido fuerte e intempestivo golpeando un periódico contra la pared. Observe la reacción del niño.</item>
+        <item>Haga sonar la campanilla. Observe atentamente los ojos del niño.</item>
+        <item>Escuche atentamente los balbuceos espontáneos del niño, motívelo con sonidos y muecas frente a frente.</item>
+        <item>Colóquese frente al niño y motívelo haciendo gestos y hablándole, o solicite a la madre que lo haga.</item>
+        <item>Proceda como en el ítem anterior, escuche atentamente las vocalizaciones del niño durante el examen.</item>
+        <item>Estimule al niño con gestos, muecas y sonidos, acaríciele suavemente su cara, o pídale a la madre que lo haga.</item>
+        <item>Colóquese fuera del campo visual del niño, llámelo por su nombre, o simplemente pídale a la madre que lo llame. Observe la reacción del niño.</item>
+        <item>Escuche atentamente las vocalizaciones del niño durante el examen.</item>
+        <item>De muestre al niño como hacer sonar la campanilla agitándola, entregue al niño la campanilla o déjela a su alcance.</item>
+        <item>Escuche atentamente al niño, pregunte a la madre si el niño pronuncia alguna palabra clara.</item>
+        <item>Observe utiliza durante el examen el movimiento de negación de cabeza. Pregunte a la madre si lo hace.</item>
+        <item>Observe y escuche atentamente la interacción verbal del niño con la madre durante el examen.</item>
+        <item>Solicite al niño que ejecute una orden sencilla. Por ejemplo, dale la muñeca a tu mamá, alcánzame la caja, guarda los juguetes o algo parecido.</item>
+        <item>Utilice varios objetos pequeños. Extienda los juguetes a la vista del niño y pídale los juguetes de uno en uno por su nombre. "Muéstrame o dame la muñeca, el carro...etc. ".</item>
+        <item>Escuche atentamente las verbalizaciones del niño durante el examen.</item>
+        <item>Utilice varios objetos pequeños. Extienda los juguetes a la vista del niño y pídale los juguetes de uno en uno por su nombre. "Muéstrame o dame la muñeca, el carro...etc. ".</item>
+        <item>Utilizando los mismos juguetes pequeños. Pregunte al niño: Esto que es? Esto cómo se llama?, mostrando los juguetes uno a uno.</item>
+        <item>Escuche atentamente las verbalizaciones del niño durante el examen. Solicite a la madre o persona acompañante que dé algunos ejemplos de las frases que el niño dice con mayor frecuencia.</item>
+        <item>Escuche atentamente las verbalizaciones del niño durante el examen. Si el niño expresa buen vocabulario durante el examen, incluya también las palabras que la madre reporta.</item>
+        <item>Pregunte al niño: ¿Cómo te llamas?</item>
+        <item>Muestre al niño dos torres: una alta y una más baja, y dos círculos: uno grande y uno pequeño, y dígale: esta torre es alta y ésta es.…</item>
+        <item>Escuche atentamente el lenguaje del niño, especialmente cuando describe los dibujos, o habla espontáneamente con la madre.</item>
+        <item>Pregunte al niño: para qué sirve un lápiz?, un cuchillo, una cuchara, un asiento, una llave, o algunos otros objetos de uso común en su medio.</item>
+        <item>Solicite al niño que ponga atención y que repita luego los números: 1-9-8; 4-7-5. o cualquier otra serie.</item>
+        <item>Muestre al niño un dibujo o paisaje que contenga varios elementos y represente diferentes acciones. Solicítele que le cuente qué hay en el dibujo, que haga una historia o cuente sobre el dibujo.</item>
+        <item>Solicite al niño que cuente los dedos de sus manos. Puede solicitarse que cuente 10 cubos.</item>
+        <item>Utilice como referencia la posición de algunos objetos y pregunte al niño: Muéstrame el cubo que está adelante de la caja, el que está atrás de la caja, arriba de la caja, abajo de la caja.</item>
+        <item>Utilice como referencia la posición de algunos objetos y pregunte: qué color es éste? ...éste, etc. Usar como colores de referencia blanco rojo, azul, amarillo, verde, negro, café, naranja, gris.</item>
+        <item>Escuche atentamente el lenguaje del niño durante el examen. Dígale al final: ¿cómo te pareció el juego?, ¿qué te gustó más?</item>
+        <item>Diga al niño: muéstrame tu mano izquierda, tu ojo derecho, tu pie izquierdo, tu mano derecha, tu oreja izquierda.</item>
+        <item>Pregunte al niño si sabe los nombres de los días de la semana, solicite que los diga.</item>
+        <item>Muéstrele al niño el cuadro con las palabras. Pídele que señale las letras que son iguales a la muestra.</item>
+        <item>Lee al niño la frase que está en la tarjeta. Pídele que la repita de la misma manera como la leíste. Tiene que ser con entonación.</item>
+        <item>Pregunta al niño qué cosas hizo el día anterior, qué ha hecho hoy y qué va a hacer mañana.</item>
+        <item>Pregunta al niño hasta qué número sabe contar. Pídele que cuente de atrás hacia adelante, empezando del diez.</item>
+        <item>Muéstrale al niño la tarjeta que tiene dibujos de personas, pídele que los ordene diciendo: “éste es primero, éste el… y éste...”.</item>
+        <item>Pregunta al niño si conoce los días de la semana, pídele que los diga en orden empezando por el lunes.</item>
+    </string-array>
+
+
+    <string-array name="queVasAobservarPersonalSocial">
+
+        <item>Niño acostado boca-arriba. Colóquese frente a él a una distancia de 40-50 cm., cuando lo este observando mueva lentamente su rostro de izquierda derecha varias veces.</item>
+        <item>Niño acostado boca-arriba. Solicite a la madre o acompañante que acerque su rostro frente al niño, a una distancia de 40–50 cm. Observe la reacción del niño.</item>
+        <item>A continuación del ítem anterior, solicite a la madre que tome en brazos al niño y acaricie suavemente su cara.</item>
+        <item>Niño acostado. Colóquese con la madre fuera de su campo visual y hable con ella en voz alta, observe la reacción del niño.</item>
+        <item>Niño acostado o sentado en el regazo de la madre. Mientras el niño esté observando acerque sus manos a las del niño, pero sin tocarlas. (El niño no debe tener en sus manos ningún Objeto)</item>
+        <item>Ofrezca al niño un juguete.</item>
+        <item>Niño, sentado en el regazo de la madre. Observe su reacción cuando usted pregunta algún dato a la madre.</item>
+        <item>Pregunte a la madre o persona acompañante: El niño toma algún líquido en taza, pocillo o vaso? Trata de coger el vaso para tomar?</item>
+        <item>Niño sentado en el regazo de la madre. Coloque el espejo frente a su cara y observe su reacción.</item>
+        <item>Niño sentado. Solicite a la madre, o aplauda usted mismo llamando la atención del niño.</item>
+        <item>Niño sentado. Entregue un juguete, permítale manipularlo algunos segundos y luego pídale que se lo entregue. Ensaye varias veces.</item>
+        <item>Observe el comportamiento del niño durante el examen, especialmente en las ocasiones en que se observa varios objetos.</item>
+        <item>Pida información a la madre o persona acompañante.</item>
+        <item>La madre o el examinador pide al niño: Muéstrame la camisa, el saco, los zapatos, la ruana u otra prenda que el niño lleve puesta.</item>
+        <item>Solicite al niño que muestre las siguientes partes del cuerpo: ojos, nariz, boca, manos, cabeza, pies, pelo oídos.</item>
+        <item>Pregunte a la madre o persona acompañante si el niño avisa cuando necesita ir al baño o hacer "sus necesidades".</item>
+        <item>Solicite al niño que muestre las siguientes partes del cuerpo: ojos, nariz, boca, manos, cabeza, pies, pelo oídos.</item>
+        <item>Ponga atención a las verbalizaciones del niño durante el examen.</item>
+        <item>Pregunte a la madre o persona acompañante si el niño "todavía se orina en los pantalones?"</item>
+        <item>Pregunte al niño: Tú eres un niño o una niña?</item>
+        <item>Pregunte al niño: cómo se llama tu papá? y tu mamá? Si alguno de los dos no existe, pregunte por el nombre de algún hermano o familiar.</item>
+        <item>Pregunte a la madre o persona acompañante: el niño se baña solo la cara y manos?</item>
+        <item>Pregunte a la madre o persona acompañante.</item>
+        <item>Pregunte a la madre o persona acompañante El niño juega con otros niños?Pelea mucho?.</item>
+        <item>Pregunte al niño: tienes amigos?, cómo se llaman tus amigos?</item>
+        <item>Pregunte al niño: quién te viste? Quién te desviste? Ratifique la información con la madre o persona acompañante.</item>
+        <item>Pregunte al niño: cuántos años tienes? Qué edad tienes?</item>
+        <item>Pregunte al niño: a qué juegas con tus amigos?. Pregunte a la madre si el niño toma iniciativa en la organización de juegos con sus amigos o hermanos.</item>
+        <item>Pregunte a la madre y/o al niño si se encarga de hacer mandados u oficios dentro o fuera de la casa.</item>
+        <item>Pregunte al niño: tú dónde vives? en qué ciudad y en qué barrio? </item>
+        <item>Solicite al niño que cuente algo de su familia, sus padres, hermanos, amigos de la casa u otros familiares. Qué hacen?, dónde trabajan?, cuáles son sus gustos o preferencias?, etc. Escuche los comentarios espontáneos del niño.</item>
+        <item>Pregunta al niño si tiene hermanos y dile si él es el primero, segundo…, el más pequeño.</item>
+        <item>Pregunta al niño si participa en actividades que realizan en su familia, en el centro, en la comunidad, pídele que te cuente en qué participa y qué hace.</item>
+        <item>Pregunta al niño qué fechas o fiestas recuerda o conoce, pídele que hable sobre lo que hace en esos dias.</item>
+        <item>Pregunta al niño qué hace todos los días desde la mañana hasta la noche.</item>
+        <item>Pídele al niño que te indique claramente el recorrido que hace de su casa al centro o de su casa a la feria, etc.</item>
+        <item>Pídele al niño que te cuente sobre su familia y sobre él; por ejemplo: “¿cuántas personas viven contigo?”, “¿qué quieres ser cuando seas grande?”, “¿qué hace tu tío?”, “¿qué hace tu abuelo?”.</item>
+    </string-array>
+
+
     <string name="condicionObservacion">Condición de Observación</string>
     <string name="criterioRespuesta">Criterios de Respuesta</string>
-    
+
+    <string name="siguiente">Siguiente</string>
+    <string name="aObservar">¿Qué vas a Observar?</string>
+    <string name="aHacerNiño">¿Qué debe hacer el niño?</string>
+    <string name="aRealizar">Como debe realizar</string>
+    <string name="pueba">Coloque  al  niño  boca-abajo,  observe su comportamiento espontáneo. Llame su atención con algún juguete, o solicite a la madre que lo haga.</string>
 </resources>

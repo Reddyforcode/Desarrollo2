@@ -58,14 +58,14 @@ public class SegundaActivity extends AppCompatActivity {
     public void paso_Materiales()
     {
         Intent intent = new Intent(SegundaActivity.this, MaterialesActivity.class);
-        intent.putExtra("meses", edadMeses);
+        intent.putExtra("meses", String.valueOf(edadMeses));
         startActivity(intent);
     }
 
     public void paso_Test()
     {
         Intent intent = new Intent(SegundaActivity.this, TestActivity.class);
-        intent.putExtra("meses", edadMeses);
+        intent.putExtra("meses", String.valueOf(edadMeses));
         startActivity(intent);
     }
     public void paso_About()

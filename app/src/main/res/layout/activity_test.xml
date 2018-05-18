@@ -1,12 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context="com.example.reddy.desarrollo20.TestActivity">
+    <TextView
+        android:id="@+id/pregunta"
+        android:textAlignment="center"
+        android:text="ask"
+        android:textSize="20dp"
+        android:layout_marginTop="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        />
 
 
-    <
 
-</android.support.constraint.ConstraintLayout>
+    <LinearLayout
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/aObervar"
+            android:text="@string/aObservar"
+            android:textAllCaps="false"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/aHacerNiño"
+            android:text="@string/aHacerNiño"
+            android:textAllCaps="false"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/aRealizar"
+            android:text="@string/aRealizar"
+            android:textAllCaps="false"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/siButton"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="60dp"
+            android:layout_marginBottom="25dp"
+            android:text="Si"
+            android:textAllCaps="false"
+            android:background="#a9dca9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/noButton"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="60dp"
+            android:layout_marginBottom="25dp"
+            android:text="No"
+            android:textAllCaps="false"
+            android:background="#ea6a6a"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+    <Button
+        android:id="@+id/siguiente"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="15dp"
+        android:text="@string/siguiente"
+        android:textAllCaps="false" />
+
+
+
+</LinearLayout>
