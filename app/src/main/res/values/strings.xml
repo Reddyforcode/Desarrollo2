@@ -186,13 +186,16 @@
         <item>Coloque al niño boca–abajo, llame su atención ofreciéndole un juguete, o solicite a la madre que lo haga. Observe su comportamiento algunos segundos.</item>
         <item>Observe el comportamiento del niño durante el examen. Colóquelo acostado boca –arriba y llame su atención, o solicite a la madre que lo haga.</item>
         <item>Coloca al niño boca-arriba y llama su atención con algo o pide a su mamá que lo haga.</item>
+
         <item>Observe el comportamiento espontáneo del niño durante el examen. Llame su atención con algún juguete cerca de la mesa o las rodillas de la madre.</item>
         <item>Observe el comportamiento espontáneo del niño durante el examen. Si el niño se encuentra sentado llame su atención ofreciéndole algún juguete, o solicite a la madre que lo haga.</item>
         <item>A continuación del ítem anterior(El niño parado solo), pida a la madre que invite al niño desde una distancia de uno o dos metros. Observe el comportamiento espontáneo del niño durante el examen.</item>
         <item>Observe a continuación del ítem anterior(El niño da pasitos solo). Observe el comportamiento espontaneo del niño durante el examen.</item>
         <item>Observe el comportamiento espontaneo del niño, invítelo a correr alrededor del cuarto.</item>
+
         <item>Coloque la pelota quieta, a una distancia aproximada de dos o tres pasos del niño. Pida alniño la patee en una determinada dirección.</item>
         <item>Dale la pelota al niño y ponte a dos o tres pasos de él y pide al niño que te tire la pelota. Puedes hacerle una demostración al niño y que ensaye dos o tres veces.</item>
+
         <item>Demuestre al niño cómo saltar en los dos pies juntos, pídale que repita con usted este ejercicio.</item>
         <item>Demuestre al niño cómo empinarse juntando los pies y levantando los talones simultáneamente.</item>
         <item>Solicitar al niño que se ponga de rodillas y levante as dos manos. A continuación pedirle que se ponga de pie sin apoyarse.</item>
@@ -340,7 +343,49 @@
         <item>Pídele al niño que te cuente sobre su familia y sobre él; por ejemplo: “¿cuántas personas viven contigo?”, “¿qué quieres ser cuando seas grande?”, “¿qué hace tu tío?”, “¿qué hace tu abuelo?”.</item>
     </string-array>
 
+    <string-array name="criteropsRespuestaMotricidadGruesa">
 
+        <item>El niño reacciona moviendo y pateando vigorosamente con ambas piernas.</item>
+        <item>El niño levanta la cabeza y la mantiene así por lo menos durante tres segundos. Si además de levantar la cabeza trata de apoyarse en los brazos o levanta un poco el pecho, califique también el ítem 3 como aprobado.</item>
+        <item>El niño se apoya y hace fuerza con el antebrazo y levanta la cabeza y el pecho, manteniéndose así por lo menos durante tres segundos.</item>
+        <item>Al levantarlo, el niño sostiene el peso de su cabeza, en ningún caso la deja caer hacia atrás.</item>
+        <item>El niño tiene control de sus movimientos de cabeza, ésta no cae hacia ningún lado bruscamente.</item>
+        <item>El niño puede “dar botes” de un lado a otro, boca–arriba y boca–abajo y viceversa.</item>
+        <item>El niño intenta sentarse solo, logra erguirse sentado, aunque muy rápido pierde el equilibrio y cae nuevamente. (Observarlo por lo menos en dos ocasiones separadas).</item>
+        <item>El niño puede mantenerse sentado por algunos segundos, sin apoyarse en las manos; aunque pierde el equilibrio y se cae cuando se le retira el apoyo.</item>
+        <item>El niño hace fuerza con sus brazos, se apoya en el vientre, y/o encoge las rodillas, y logra arrastrarse un poco, aunque no logra todavía la posición de gateo.</item>
+        <item>El niño puede levantarse por sí solo y logra sentarse sin ayuda, manteniendo esta posición con buen equilibrio. </item>
+        <item>El niño se apoya en manos y rodillas y gatea bien, logrando desplazarse algunos metros.</item>
+        <item>El niño se agarra de la mesa o las rodillas de la madre, con una o ambas manos y logra mantenerse en pie, por lo menos durante 10 segundos.</item>
+        <item>El niño se pone de pie y se mantiene en esta posición sin perder el equilibrio, por lo menos 15 segundos. Se requiere que se mantenga de pie sin apoyarse con las manos.</item>
+        <item>El niño intenta y logra dar por lo menos cuatro o cinco pasos consecutivos, antes de perder el equilibrio. Lo intenta varias veces.</item>
+        <item>El niño camina con buen equilibrio, sin arrastrar los pies, camina erguido y sin temor, y parece gozar ejercitando este comportamiento.</item>
+        <item>El niño corre, aunque no con mucha velocidad, es importante que levante y alterne bien los pies sin arrastrarlos.</item>
+        <item>El niño camina, se ubica y logra patear la pelota sin perder el equilibrio. No se requiere que el niño corra para patear la pelota.</item>
+        <item>El niño debe tirar la pelota a la dirección dond e estas po lo menos dos veces, sin fallar.</item>
+        <item>El niño salta con los dos pies juntos, sin separarlos y sin perder el equilibrio. Se requiere que el niño logre levantar ambos pies del piso, por lo menos en dos ensayos.</item>
+        <item>El niño puede empinarse, sin perder el equilibrio por lo menos durante tres segundos, y sin apoyarse.</item>
+        <item>El niño imita al examinador o a la madre y logra ponerse de pie, sin bajar las manos, sin apoyarse ni perder el equilibrio.</item>
+        <item>Espontáneamente o por imitación, el niño camina unos cuatro o cinco pasos hacia atrás en secuencia, sin trastabillar ni perder el equilibrio.</item>
+        <item>Logra caminar en punta de pies, por lo menos dos o tresmetros, sin detenerse ni perder el equilibrio.</item>
+        <item>El niño puede alcanzar la pelota con ambas manos en la dirección correcta y logra recibirla sin dejarla caer, por lo menos en dos ensayos consecutivos.</item>
+        <item>El niño puede lanzar la pelota con ambas manos en la dirección correcta y logra recibirla sin dejarla caer, por lo menos en dos ensayos consecutivos.</item>
+        <item>Camina en línea recta, alternando los pies, uno frente al otro, sin perder el equilibrio, por lo menos dos metros sin detenerse.</item>
+        <item>El niño logra saltar en un solo pie, por lo menos tres saltos consecutivos, sin perder el equilibrio.</item>
+        <item>El niño imita al examinador o a la madre y logra hacer rebotar y agarrar la pelota, por lo menos dos veces consecutivas.</item>
+        <item>El niño logra saltar de un lado al otro la cuerda, con los pies juntos, sin perder el equilibrio, por los menos en dos ensayos.</item>
+        <item>El niño corre y salta haciendo “caballitos” , sin equivocarse ni perder el ritmo, por lo menos una distancia de tres o cuatro metros.</item>
+        <item>El niño logra saltar y caer de pie, sin perder el equilibrio. Se observa soltura y seguridad en la ejecución del movimiento.</item>
+        <item>El niño puede hacer por lo menos tres saltos y recoger la piedra sin caerse.</item>
+        <item>El niño debe hacer la construcción con buena coordinación de manos y dedos.</item>
+        <item>El niño debe saltar combinando los pies sin perder el equilibrio ni caerse. Debe realizar por lo menos tres saltos seguidos.</item>
+        <item>El niño debe realizar este juego de abrir y cerrar alternadamente las manos, por lo menos tres veces(cada movimiento de abrir y cerrar es contado como uno).</item>
+        <item>El niño debe marchar moviendo brazos y piernas coordinadamente (una distancia de 5 mts. Aproximadamente).</item>
+        <item>El niño debe saltar solo con la soga, mínimo cuatro veces seguidas, sin enredarse ni perder el equilibrio.</item>
+
+
+    </string-array>
+    
     <string name="condicionObservacion">Condición de Observación</string>
     <string name="criterioRespuesta">Criterios de Respuesta</string>
 

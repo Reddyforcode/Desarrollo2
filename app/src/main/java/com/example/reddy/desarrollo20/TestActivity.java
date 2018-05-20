@@ -193,7 +193,7 @@ public class TestActivity extends AppCompatActivity {
                 {
                     if(incremento == 1) parar = condicionDeParadaIncremento(resMotricidadGruesa, index);
                     else if(incremento == -1)   parar = condicionDeParadaDecremento(resMotricidadGruesa, index);
-
+/////////////////////////////////////////////////////////////
                     if(parar) {
                         index = indexInicio-1;
                         t1 = false;
@@ -242,23 +242,29 @@ public class TestActivity extends AppCompatActivity {
         String cont = String.valueOf(contador);
         Log.d("contador", cont);
         Log.d("si o no", "si");
-        contador++;
-        index += incremento;
 
         if(t1)  //motricidad gruesa
         {
-            pregunta.setText(preguntasMotricidadGruesa[index]);
+            contador++;
+            index += incremento;
+            pregunta.setText("Pregunta #"+index+"\n"+preguntasMotricidadGruesa[index]);
 
         }else if(t2)    // motricidad fina
         {
-            pregunta.setText(preguntasMotricidadfina[index]);
+            contador++;
+            index += incremento;
+            pregunta.setText("Pregunta #"+index+"\n"+preguntasMotricidadfina[index]);
 
         }else if(t3)    //audicion y lenguaje
         {
-            pregunta.setText(preguntasAudicionLenguaje[index]);
+            contador++;
+            index += incremento;
+            pregunta.setText("Pregunta #"+index+"\n"+preguntasAudicionLenguaje[index]);
         }else if(t4)    //personal y social
         {
-            pregunta.setText(preguntasPersonalSocial[index]);
+            contador++;
+            index += incremento;
+            pregunta.setText("Pregunta #"+index+"\n"+preguntasPersonalSocial[index]);
         }
 
     }
@@ -316,6 +322,7 @@ public class TestActivity extends AppCompatActivity {
                     else if(incremento == -1)   parar = condicionDeParadaDecremento(resMotricidadGruesa, index);
 
                     if(parar) {
+                        contador = 0;
                         index = indexInicio-1;
                         t1 = false;
                         t2 = true;
@@ -327,6 +334,7 @@ public class TestActivity extends AppCompatActivity {
                     else if(incremento == -1)   parar = condicionDeParadaDecremento(resMotricidadFina, index);
 
                     if(parar){
+                        contador = 0;
                         index = indexInicio-1;
                         t2 = false;
                         t3 = true;
@@ -337,6 +345,7 @@ public class TestActivity extends AppCompatActivity {
                     if(incremento == 1) parar = condicionDeParadaIncremento(resAudicionLenguaje, index);
                     else if(incremento == -1)   parar = condicionDeParadaDecremento(resAudicionLenguaje, index);
                     if(parar){
+                        contador = 0;
                         index = indexInicio-1;
                         t3 = false;
                         t4 = true;
@@ -347,6 +356,8 @@ public class TestActivity extends AppCompatActivity {
                     if(incremento == 1) parar = condicionDeParadaIncremento(resPersonalSocial, index);
                     else if(incremento == -1)   parar = condicionDeParadaDecremento(resPersonalSocial, index);
                     if(parar){
+                        contador = 0;
+                        index = indexInicio;
                         t4 = false;
                         resultados();
                         Intent intent = new Intent(TestActivity.this, ResultadosActivity.class);
@@ -361,23 +372,30 @@ public class TestActivity extends AppCompatActivity {
         }
         Log.d("contador", String.valueOf(contador));
         Log.d("si o no", "no");
-        contador++;
-        index += incremento;
+
 
         if(t1)  //motricidad gruesa
         {
-            pregunta.setText(preguntasMotricidadGruesa[index]);
+            contador++;
+            index += incremento;
+            pregunta.setText("Pregunta #"+index+"\n"+preguntasMotricidadGruesa[index]);
 
         }else if(t2)    // motricidad fina
         {
-            pregunta.setText(preguntasMotricidadfina[index]);
+            contador++;
+            index += incremento;
+            pregunta.setText("Pregunta #"+index+"\n"+preguntasMotricidadfina[index]);
 
         }else if(t3)    //audicion y lenguaje
         {
-            pregunta.setText(preguntasAudicionLenguaje[index]);
+            contador++;
+            index += incremento;
+            pregunta.setText("Pregunta #"+index+"\n"+preguntasAudicionLenguaje[index]);
         }else if(t4)    //personal y social
         {
-            pregunta.setText(preguntasPersonalSocial[index]);
+            contador++;
+            index += incremento;
+            pregunta.setText("Pregunta #"+index+"\n"+preguntasPersonalSocial[index]);
         }
 
 
@@ -388,6 +406,7 @@ public class TestActivity extends AppCompatActivity {
     {
         if(((v[max] == 0) && (v[max-1] == 0) && (v[max-2] == 0))||(max == 0)||(max == 36))
         {
+            index = indexInicio;
             return true;
         }else   return false;
     }
@@ -396,8 +415,12 @@ public class TestActivity extends AppCompatActivity {
     {
         if(((v[max]==1) && (v[max+1] == 1) && (v[max+2] == 1))||((max == 0)||(max == 36)))
         {
+
+            index = indexInicio;
             return true;
         }
+
+
         else return false;
     }
 
